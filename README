@@ -1,0 +1,17 @@
+We will start with CodeSpaces on the Web:
+
+https://devblogs.microsoft.com/cppblog/using-github-codespaces-and-visual-studio-code-for-cplusplus-development/
+Using GitHub Codespaces and Visual Studio Code for C++ Development
+
+Visual Studio and github.dev
+Assume that there is no local version of Visual Studio Code and the laptop
+Simply go to the remote github repository, and press "."
+
+Visual Studio Code (VSC) and Codespace
+Assume that there IS a local version of Visual Studio Code and the laptop
+Connect to Codespace from VSC. 
+Install the C/C++ Extension 
+
+Throughout the class, we'll use the default configuration: 
+Linux machine on the cloud with 2 cores and 32 GB memory. 
+
