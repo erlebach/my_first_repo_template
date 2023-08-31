@@ -11,12 +11,10 @@
 	}
 	"Customizations": {
 		"Codespaces": {
-			"openFiles": ["README"]
+			"openFiles": ["README", "src/main.cpp"]
 			}
 		}
 	}
-
-	OpenFiles
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
