@@ -11,5 +11,10 @@
 		"Codespaces": {
 			"openFiles": ["README", "src/main.cpp"]
 		}
-	}
+	},
+	"extension": [
+		"ms-vscode.cpptools",
+		"C/C++ for Visual Studio Code Changelog"
+	]
+
 }
