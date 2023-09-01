@@ -14,7 +14,7 @@
 	},
 	"extension": [
 		"ms-vscode.cpptools",
-		"C/C++ for Visual Studio Code Changelog"
+		"C/C++ for Visual Studio Code Changelog", 
+		"Github.copilot",
 	]
-
 }
