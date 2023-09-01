@@ -12,7 +12,7 @@
 			"openFiles": ["README", "src/main.cpp"]
 		}
 	},
-	"extension": [
+	"extensions": [
 		"ms-vscode.cpptools",
 		"C/C++ for Visual Studio Code Changelog", 
 		"Github.copilot",
