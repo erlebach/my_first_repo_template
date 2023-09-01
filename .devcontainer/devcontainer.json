@@ -14,7 +14,11 @@
 	},
 	"extensions": [
 		"ms-vscode.cpptools",
-		"C/C++ for Visual Studio Code Changelog", 
+		"C/C++ for Visual Studio Code Changelog",
 		"Github.copilot",
+		"vscodevim.vim",
+		"ms-vscode.cpptools-extension-pack",
+		"wesbos.theme-cobalt2",
+		"github.classroom"
 	]
 }
