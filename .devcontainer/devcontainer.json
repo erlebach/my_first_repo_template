@@ -8,7 +8,7 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/curl-apt-get:1": {},
 		"ghcr.io/devcontainers-contrib/features/wget-apt-get:1": {}
-	}
+	},
 	"Customizations": {
 		"Codespaces": {
 			"openFiles": ["README", "src/main.cpp"]
