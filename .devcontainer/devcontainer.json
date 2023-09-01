@@ -10,7 +10,6 @@
 	"Customizations": {
 		"Codespaces": {
 			"openFiles": ["README", "src/main.cpp"]
-			}
 		}
 	}
 }
